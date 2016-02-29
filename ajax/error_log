@@ -1,0 +1,2 @@
+[17-Feb-2016 06:43:51] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'andrade_shoplist'@'localhost' to database 'andrade_shoplist' in /home4/andrade/public_html/apps/shoplist/includes/db.php on line 6
+[17-Feb-2016 10:09:30] PHP Parse error:  syntax error, unexpected T_EXIT in /home4/andrade/public_html/apps/shoplist/ajax/limitItem.php on line 1
