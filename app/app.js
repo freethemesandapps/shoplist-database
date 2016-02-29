@@ -3,7 +3,7 @@ var app = angular.module('shopApp', []);
 
 app.controller('shopController', function($scope, $http) {
 	
-  var limit = 50;
+  var limit = 6;
   
   getItem(); // Load all available items 
   function getItem(){  
